@@ -8,5 +8,9 @@
 	<classpathentry kind="lib" path="D:/eclipse-jee-neon-1a-win32-x86_64/eclipse/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse-jee-neon-1a-win32-x86_64/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse-jee-neon-1a-win32-x86_64/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/cxf/core/cxf-core/3.1.5/cxf-core-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/cxf/manifest/cxf-manifest/3.1.5/cxf-manifest-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/cxf/rt/wsdl/cxf-rt-wsdl/3.1.5/cxf-rt-wsdl-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/cxf"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

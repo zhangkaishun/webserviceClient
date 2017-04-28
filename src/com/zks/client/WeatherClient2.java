@@ -9,6 +9,7 @@ public class WeatherClient2 {
 		WeatherInterfaceImplService weatherInterfaceImplService=new WeatherInterfaceImplService();
 		WeatherInterfaceImpl weatherInterfaceImplPort = weatherInterfaceImplService.getWeatherInterfaceImplPort();
 		System.out.println(weatherInterfaceImplPort.queryWeather("³É¶¼"));
+
 	}
 
 }
